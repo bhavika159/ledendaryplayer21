@@ -1,0 +1,16 @@
+(function(){
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(['activateGeoDelayedExperiments', {
+    'location':{
+      'city': "AMBALA",
+      'continent': "AS",
+      'country': "IN",
+      'region': "HR"
+    },
+    'ip':"47.9.65.88"
+  }]);
+})
+//
+()
+
+;
